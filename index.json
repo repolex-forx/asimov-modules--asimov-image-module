@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-image-module",
+  "versions": [
+    {
+      "commit": "e4de9554ffd161a4dab76598753d4dc246b16438",
+      "tag": "0.1.0",
+      "parsed_at": "2026-09-28T07:38:25.346159+00:00"
+    }
+  ]
+}
