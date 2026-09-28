@@ -33,6 +33,122 @@
       ],
       "ast": [
         "aggregate/ast/e4de9554ffd161a4dab76598753d4dc246b16438/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e4de9554ffd161a4dab76598753d4dc246b16438.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.21",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3df82e987f30ab589274c6102831086fc03eb1fa",
+          "githubTag": "25.0.0-dev.21",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "image",
+          "ecosystem": "CARGO",
+          "version": "0.25",
+          "githubOrg": "image-rs",
+          "githubRepo": "image",
+          "githubUrl": "https://github.com/image-rs/image",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "know",
+          "ecosystem": "CARGO",
+          "version": "0.2.10",
+          "githubOrg": "know-ontology",
+          "githubRepo": "know.rs",
+          "githubCommit": "e568ab7c0cecb9261b33ea341c18b5de783fb328",
+          "githubTag": "0.2.10",
+          "githubUrl": "https://github.com/know-ontology/know.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "minifb",
+          "ecosystem": "CARGO",
+          "version": "0.28",
+          "githubOrg": "emoon",
+          "githubRepo": "rust_minifb",
+          "githubUrl": "https://github.com/emoon/rust_minifb",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "thiserror",
+          "ecosystem": "CARGO",
+          "version": "2.0.17",
+          "githubOrg": "dtolnay",
+          "githubRepo": "thiserror",
+          "githubCommit": "72ae716e6d6a7f7fdabdc394018c745b4d39ca45",
+          "githubTag": "2.0.17",
+          "githubUrl": "https://github.com/dtolnay/thiserror",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        },
+        {
+          "packageName": "tracing",
+          "ecosystem": "CARGO",
+          "version": "0.1.41",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubCommit": "0ca78870815a34a345a908f48db057057e8803d2",
+          "githubTag": "tracing-0.1.41",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs"
+        }
       ]
     }
   ],
